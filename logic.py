@@ -23,8 +23,8 @@ try:
 
     def theTweet(sent):
         #This is the part which actually posts the tweet
-    	if len(sent)<=160:
-            #Twitter allows only 160 character tweets
+    	if len(sent)<=140:
+            #Twitter allows only 140 character tweets
     		print("tweetable")
     		t.statuses.update(status=sent)
     	else:
