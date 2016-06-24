@@ -13,3 +13,6 @@ Future builds:
 1) A version running on heroku.
 2) Web application allowing user to key in keywords and replacement
 3) Probably skynet :P
+
+
+https://medium.com/@Dakshil/creating-a-twitter-bot-with-python-cb042fb5bdb#.f91hyao7n
