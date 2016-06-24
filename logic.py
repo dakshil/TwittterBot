@@ -28,7 +28,7 @@ try:
     		print("tweetable")
     		t.statuses.update(status=sent)
     	else:
-    		print("160 characters crossed")
+    		print("140 characters crossed")
     def theBrain():
         #The area where we can do whatever we want
         #Fetch n number of tweets where n is given by count, having the keyword given in q
